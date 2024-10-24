@@ -1,2 +1,2 @@
 # dnaSpeedformer
-Modelling DNA Kinetics with RNNS + Transformers
+Modelling DNA Kinetics with Machine Learning
