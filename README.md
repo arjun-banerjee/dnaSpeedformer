@@ -1,2 +1,2 @@
-# dnaSpeedformer
+# deepDNASpeed
 Modelling DNA Kinetics with Machine Learning
